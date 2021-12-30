@@ -6,3 +6,6 @@
 	path = tools/camera-capture
 	url = https://github.com/dusty-nv/camera-capture
 	branch = master
+[submodule "plugins/pose"]
+	path = plugins/pose
+	url = https://github.com/dusty-nv/trt_pose
